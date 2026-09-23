@@ -1,0 +1,1 @@
+# salgeo-auto-blog
